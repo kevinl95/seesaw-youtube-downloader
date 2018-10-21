@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/kevinl95/seesaw-youtube-downloader#readme",
   "devDependencies": {
-    "electron": "^3.0.5"
+    "electron": "^3.0.5",
+    "electron-packager": "^12.2.0"
   },
   "dependencies": {
     "ytdl-core": "^0.26.3"
