@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: YouTube to Seesaw Downloader
+description: A simple application for downloading videos from YouTube for Seesaw
+show_downloads: true
