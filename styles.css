@@ -1,0 +1,11 @@
+html, body, .container-fluid {
+  background-color: #fffcaa;
+}
+
+.text-input {
+  font-size: 16px;
+}
+
+textarea {
+   resize: none;
+}

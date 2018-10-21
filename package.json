@@ -1,0 +1,32 @@
+{
+  "name": "seesaw-youtube-downloader",
+  "version": "1.0.0",
+  "description": "A utility for downloading YouTube videos as MP4 files.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinl95/seesaw-youtube-downloader.git"
+  },
+  "keywords": [
+    "seesaw",
+    "education",
+    "open-source",
+    "youtube",
+    "download"
+  ],
+  "author": "Kevin Loeffler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinl95/seesaw-youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/kevinl95/seesaw-youtube-downloader#readme",
+  "devDependencies": {
+    "electron": "^3.0.5"
+  },
+  "dependencies": {
+    "ytdl-core": "^0.26.3"
+  }
+}
