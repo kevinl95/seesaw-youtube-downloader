@@ -2,7 +2,7 @@
 
 ![Windows screenshot of the program in action](screenshot.PNG)
 
-[Download for Windows](https://github.com/kevinl95/seesaw-youtube-downloader/releases/download/1.0/seesaw-youtube-downloader-win32-ia32.zip){: .btn} [Download for Mac](https://github.com/kevinl95/seesaw-youtube-downloader/releases/download/1.0/seesaw-youtube-downloader-macos-x64.zip){: .btn}
+<a href="https://github.com/kevinl95/seesaw-youtube-downloader/releases/download/1.0/seesaw-youtube-downloader-win32-ia32.zip" class="btn btn-info" role="button">Download for Windows</a><a href="https://github.com/kevinl95/seesaw-youtube-downloader/releases/download/1.0/seesaw-youtube-downloader-macos-x64.zip" class="btn btn-info" role="button">Download for Mac</a>
 
 This is a simple program for downloading YouTube videos optimized for Seesaw.
 Simply paste in the link to the YouTube video you want to download, and press
