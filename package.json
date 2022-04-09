@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "ytdl-core": "^0.26.3",
-    "minimist": ">=1.2.2"
+    "minimist": ">=1.2.6"
   }
 }
